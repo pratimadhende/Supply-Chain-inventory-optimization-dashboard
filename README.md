@@ -44,4 +44,9 @@ This project demonstrates an end-to-end supply chain analytics workflow. Raw inv
 This project shows how Python and Power BI can be combined to perform effective supply chain analysis. The dashboard helps identify inventory inefficiencies and supports data-driven decisions for improving supply chain and inventory management.
 
 ## Author
+
 *Pratima Dhende*
+
+## Dashboard
+
+<img src="https://github.com/pratimadhende/Supply-Chain-inventory-optimization-dashboard/blob/7c65278987b40432a335d69de399a141404224b8/Supply_Chain_Dashboard.png" alt="Image Description" width="600">
