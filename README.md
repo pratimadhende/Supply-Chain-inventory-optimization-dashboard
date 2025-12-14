@@ -47,6 +47,7 @@ This project shows how Python and Power BI can be combined to perform effective 
 
 *Pratima Dhende*
 
-## Dashboard
+## Dashboard Preview
 
-<img src="https://github.com/pratimadhende/Supply-Chain-inventory-optimization-dashboard/blob/7c65278987b40432a335d69de399a141404224b8/Supply_Chain_Dashboard.png" alt="Image Description" width="600">
+<img src="https://github.com/pratimadhende/Supply-Chain-inventory-optimization-dashboard/blob/7c65278987b40432a335d69de399a141404224b8/Supply_Chain_Dashboard.png" alt="Image Description" width="500">
+
